@@ -30,3 +30,5 @@ Thanks Xmind for the software, was straghtforward, easy to use and served my pur
 (I am only at 1/5 of the map and it is already huge).
 
 ![Analyst Cyber](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/6a3d6097-59f2-4cef-8e9b-d7cd14a43a3a)
+
+You can modified the XMIND file then upluoad it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind
