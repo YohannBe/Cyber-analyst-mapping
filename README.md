@@ -27,6 +27,11 @@ What I wrote on this map for now is based on what I have learned with OpenClassr
 
 Thanks Xmind for the software, was straghtforward, easy to use and served my purpose to perfection.
 
-![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/5b017760-952d-49c8-8819-7ac258855c57)
+![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/6b6463d5-c1b5-4e21-8525-ce54771ef1e5)
 
-You can modified the XMIND file then upload it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind
+
+You can modified the XMIND file then upload it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind.
+
+You can download the Xmind app there: https://xmind.app/download/
+
+If there is too much information on the map and/or you want to follow a path, it is possible to collapse everything and develop only what is of interest for you.
