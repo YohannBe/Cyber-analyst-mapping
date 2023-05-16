@@ -1,6 +1,6 @@
 # Cyber-analyst-mapping
 
-Hi guys !
+Hi everyone !
 
 When I just started in the Cybersecurity field I was quite lost (and the term is undermining what I felt the first month) and I'm pretty sure that a lot of folks in the Cyber field still feel the same!
 
@@ -23,12 +23,9 @@ This mind map is not something that one need to learn by heart, it is something 
 
 Moreover, even though the closest branches to the center won't move a lot, I expect that the extremities (tools and commands) will move quite frequently, which is good since it means that the map will not stay static but in the contrary, will adapt and stay as much up to date as possible.
 
-What I wrote on this map for now is based on what I have learned with OpenClassrooms, Mathieu Vajou, David Bombal, NetworkChuck, ITPro, from ACI Learning and from my own experience at ResilEyes Therapeutics.
-
 Thanks Xmind for the software, was straghtforward, easy to use and served my purpose to perfection.
 
-![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/e221c6ab-a3a9-4605-ad02-f4c99b3612d8)
-
+![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/aaf28942-fb04-4766-9ba8-14f7ea4c0991)
 
 You can modified the XMIND file then upload it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind.
 
