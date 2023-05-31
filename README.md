@@ -25,7 +25,7 @@ Moreover, even though the closest branches to the center won't move a lot, I exp
 
 Thanks Xmind for the software, was straghtforward, easy to use and served my purpose to perfection.
 
-![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/cf5531fa-a427-4849-b0da-e122a53038a8)
+![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/1d7715fc-2d78-4196-8df0-ea965509b926)
 
 You can modified the XMIND file then upload it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind.
 
