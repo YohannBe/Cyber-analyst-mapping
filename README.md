@@ -4,12 +4,14 @@ Hi everyone !
 
 When I just started in the Cybersecurity field I was quite lost (and the term is undermining what I felt the first month) and I'm pretty sure that a lot of folks in the Cyber field still feel the same!
 
-Why ?
+Why?
 
-Simply because this field is a big and ever changing one !
+Simply because this field is a big and ever changing one!
 
 Each day a new threat appear
+
 Each day a new remediation/mitigation appear
+
 From time to time a new "better" method appear on what and how to do our stuff
 
 Then an idea crossed my mind.
@@ -17,6 +19,7 @@ We, the threat hunters, the safeguarder of data, look for what is not regular, w
 Following this approach, I have started to write a mind map with 2 goals in mind:
 
 1: Exposing the baseline of the Cybersecurity Analyst
+
 2: Exposing the tools and command used for each use case
 
 This mind map is not something that one need to learn by heart, it is something that will be used more as a check list, as a reminder, as an indicator of where to start when there is just so much to tackle !
@@ -25,7 +28,7 @@ Moreover, even though the closest branches to the center won't move a lot, I exp
 
 Thanks Xmind for the software, was straghtforward, easy to use and served my purpose to perfection.
 
-![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/92e8c5d1-9207-4454-afdd-946860dc14fc)
+![Analyst Cyber-min](https://github.com/YohannBe/Cyber-analyst-mapping/assets/48290347/d995dcd0-dd89-48b5-8564-4e19760e7053)
 
 You can modified the XMIND file then upload it to a new branch that will be checked before merging, the file is: Analyst Cyber.xmind.
 
